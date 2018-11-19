@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AllAssets/Hex package/OneComputer.unity
+- path: Assets/AllAssets/Imported/TBS Framework/Scenes/Example Scene 1.unity
   isLoaded: 1
   isActive: 1
