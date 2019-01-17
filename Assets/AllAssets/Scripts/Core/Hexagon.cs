@@ -96,7 +96,7 @@ public abstract class Hexagon : Cell
         }
         return neighbours;
 
-    }//Each square cell has six neighbors, which positions on grid relative to the cell are stored in _directions constant.
+    }//Each hexagon cell has six neighbors, which positions on grid relative to the cell are stored in _directions constant.
 }
 
 public enum HexGridType

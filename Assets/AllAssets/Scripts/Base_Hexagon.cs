@@ -1,9 +1,7 @@
 ﻿using UnityEngine;
 
-class Base_Hexagon : Hexagon
+public class Base_Hexagon : Hexagon
 {
-    public TileType TileType;
-
     private Renderer hexagonRenderer;
     private Renderer outlineRenderer;
 
@@ -27,7 +25,7 @@ class Base_Hexagon : Hexagon
 
     public override void MarkAsReachable()
     {
-        SetColor(hexagonRenderer, Color.yellow);
+        SetColor(hexagonRenderer, Color.blue);
     }
     public override void MarkAsPath()
     {
@@ -35,7 +33,7 @@ class Base_Hexagon : Hexagon
     }
     public override void MarkAsHighlighted()
     {
-        SetColor(outlineRenderer, Color.blue);
+        SetColor(outlineRenderer, Color.yellow);
     }
     public override void UnMark()
     {
@@ -47,19 +45,8 @@ class Base_Hexagon : Hexagon
     {
         renderer.material.color = color;
     }
+
 }
 
-public enum TileType
-{
-    Normal,
-    Impass,
-    Burn,
-    Swamp,
-    Raise,
-    Draft,
-    Refresh,
-    Recant,
-    Flash,
-    Vivify
-};
+
 
