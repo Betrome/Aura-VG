@@ -1,0 +1,254 @@
+id,Name,Level,AP,Cost,Power,Element1,Element2,Range,Size,Area,Card Type,Details,abilities,Rarity
+AF01,Therm,1,3,1,1,FIRE,FIRE,2,4,Area,Black Aura,Stun !A0!.,1,C
+AF02,Luminous Warmth,1,6,3,-,FIRE,FIRE,1,1,Single,White Aura,Draw !A0!.,1,C
+AF03,Pyre,1,3,2 Hp,1,FIRE,FIRE,3,1,Ray,Black Aura,Break.,,U
+AF04,Shielding Hearth,2,10,1,-,FIRE,FIRE,3,1,Single,Green Aura,Block the next !A0! Damage Target Player would take this Round.,10,C
+AF05,Suffocating Ash,1,3,x ,1,FIRE,FIRE,2,1,Single,Black Aura,"Blind x.
+When played from the Charged Deck Suffocating Ash has Blind !A1!.",1,U
+AF06,Biting Heat,2,15,3,-,FIRE,FIRE,5,1,Single,White Aura,Destroy Target Level 1 or 2 Black Aura.,,C
+AF07,Corona,2,7,2,-,FIRE,FIRE,5,1,Single,White Aura,Gain !A0! Fire Energy.,4,C
+AF08,Ignis,2,7,1,2,FIRE,FIRE,5,1,Ray,Black Aura,,,C
+AF09,Heat Visions,2,12,2,-,FIRE,FIRE,5,1,Single,White Aura,Transfer.,,C
+AF10,Fire Tomb,2,9,2 Hp,1,FIRE,FIRE,4,3,Area,Black Aura,Fire Tomb Gains Obliterate !A0! when in a Spell with another Fire Aura.,3,C
+AF11,Burnt Offering,2,7,1,1,FIRE,FIRE,2,1,Single,Black Aura,When Burnt Offering destroys an Aura or Spell: Target Spell Gains !A0! Power.,3,U
+AF12,Singe,2,7,1,1,FIRE,FIRE,3,2,Area,Black Aura,Accelerate !A0!.,2,U
+AF13,Solar Wind,3,8,2,2,FIRE,FIRE,4,1,Ray,Black Aura,Disable !A0!.,2,C
+AF14,Eruption,3,18,1,3,FIRE,FIRE,4,5,Area,Black Aura,,,C
+AF15,Supreme Blaze,3,8,2,-,FIRE,FIRE,3,1,Single,Green Aura,Destroy Target White or Green Aura.,,U
+AF16,Cinder Storm,3,6,3,3,FIRE,FIRE,2,1,Single,Black Aura,Strike.,,C
+AF17,Incandescent Coals,3,26,2,-,FIRE,FIRE,4,1,Single,White Aura,"Choose one:
+- Restore !A0! Hp to Target Player.
+- Discard an Aura from Target Player's Charging Line.",5,C
+AF18,Scorching Embers,3,13,3 Hp,2,FIRE,FIRE,3,4,Area,Black Aura,"Blind x, where x is the number of unique levels Scorching Embers is in a Spell with.",,U
+AF19,Meteor,4,22,4,3,FIRE,FIRE,3,6,Area,Black Aura,"Stun !A0!.
+Meteor cannot be Blocked except by !A1! or more Auras","2,2",C
+AF20,Raging Inferno,4,11,1,4,FIRE,FIRE,3,1,Single,Black Aura,When in a Spell of 3 or more cards Raging Inferno Gains Blind !A0!.,5,C
+AF21,Firestorm,4,24,3 Hp,3,FIRE,FIRE,5,5,Area,Black Aura,1: Firestorm gains Link.,,U
+AF22,Magma Wall,4,8,3,-,FIRE,FIRE,3,1,Single,Green Aura,Destroy any Attackers that Deal Damage to Target Player this Round.,,C
+AF23,Pyroclastic Surge,4,12,3,3,FIRE,FIRE,3,1,Ray,Black Aura,If Pyroclastic Surge destroys an Aura its owner takes !A0! Damage for each Card he or she plays next Round.,1,C
+AF24,Vitalizing Spark,4,18,3,-,FIRE,FIRE,2,1,Single,White Aura,Return a Black Aura from Discard to its owner's Charge 4.,,R
+AF25,Glowing Sceptre,4,17,3,-,FIRE,FIRE,1,1,Single,Equipment,Multicast 2 Hp: Gain !A0! Fire Energy.,2,C
+AF26,Sun Burst Cloak,1,18,4,-,FIRE,FIRE,1,1,Single,Equipment,x: Negate !A0!x Combat Damage you would take this Round.,2,C
+AW01,Hydro,1,4,1,2,WATER,WATER,5,1,Single,Black Aura,,,C
+AW02,Diamond Ice,1,2,1,1,WATER,WATER,2,2,Area,Black Aura,Freeze !A0!.,1,C
+AW03,Aquatic Bounty,1,4,2,-,WATER,WATER,1,1,Single,White Aura,Gain !A0! Water Energy.,3,U
+AW04,Freeze Counter,1,5,2 Hp,-,WATER,WATER,4,1,Single,Green Aura,Destroy Target Level 1 or 2 Aura.,,C
+AW05,Balistic Sludge,1,2,1,1,WATER,WATER,3,1,Single,Black Aura,Disable !A0!.,1,C
+AW06,Hyetal Flow,1,3,1,1,WATER,WATER,3,1,Ray,Black Aura,When in a Spell of 3 or more cards Hyetal Flow Gains Freeze !A0!.,3,U
+AW07,Downpour,1,9,2,-,WATER,WATER,4,1,Single,White Aura,"Send Target Aura to Charge !A0!.
+Discard Downpour when played from the Charged Deck.",2,C
+AW08,Glacier,2,10,2 Hp,3,WATER,WATER,2,5,Area,Black Aura,"Freeze !A0!.
+Guard.",1,C
+AW09,Ice Wave,2,4,2,1,WATER,WATER,2,1,Single,Black Aura,Pierce.,,U
+AW10,Deluge,2,6,1,0,WATER,WATER,3,1,Single,Black Aura,Deluge Gains !A0! Power for each other Water Aura in the same Spell.,1,U
+AW11,Scrying Pool,2,8,3,-,WATER,WATER,1,1,Single,WhiteAura,Look at the top !A0! cards of your deck. Put one into your hand and the other onto the bottom of your deck.,2,C
+AW12,Douse,2,8,1,1,WATER,WATER,3,4,Area,Black Aura,You may Cycle Douse from the Charged Deck.,,C
+AW13,Moonlit Tide,3,8,3,2,WATER,WATER,3,1,Ray,Black Aura,Other Water Auras on the Field Gain !A0! Power.,1,U
+AW14,Cryokinesis,3,14,2,-,WATER,WATER,5,1,Single,Green Aura,Grant Target Aura Augur !A0!.,5,U
+AW15,Whirlpool,3,13,3 Hp,2,WATER,WATER,4,3,Area,Black Aura,Link.,,C
+AW16,Numbing Mist,3,18,1,3,WATER,WATER,3,6,Area,Black Aura,,,C
+AW17,Blizzard,3,12,2,2,WATER,WATER,3,4,Area,Black Aura,Disable !A0!.,2,C
+AW18,Hydrate,3,25,3,-,WATER,WATER,3,1,Single,White Aura,"Choose one:
+- Draw !A0! cards.
+- Target Player returns 1 White or Green Aura from their Discard Pile to their Charged Deck.",2,C
+AW19,Rejuvenate,4,23,3,-,WATER,WATER,2,1,Single,White Aura,Restore !A0! Hp to Target Player.,7,C
+AW20,Seaside Duel,2,10,3,-,WATER,WATER,3,1,Single,Green Aura,You and Target Player each Reveal the top !A0! Cards of their Decks. Whoever has a higher combined Level sends their revealed Cards to their Charged Deck. The loser sends their cards to the bottom of their deck in any order. Shuffle and repeat in case of ties.,3,U
+AW21,Maelstrom,4,21,3,3,WATER,WATER,3,6,Area,Black Aura,Obliterate !A0!.,2,C
+AW22,Drown,4,7,4 Hp,2,WATER,WATER,1,1,Single,Black Aura,When in a Spell of 3 cards or more Drown Gains !A0! Power for each unique card in the same Spell.,1,R
+AW23,Typhoon,4,22,3,3,WATER,WATER,5,4,Area,Black Aura,Shift !A0!.,2,C
+AW24,River Surge,4,11,2,4,WATER,WATER,3,1,Ray,Black Aura,,,C
+AW25,Frost Shroud,2,15,3,-,WATER,WATER,3,1,Single,Equipment,"4 Hp: Redirect any Attacks against Target Player this Round to Auras in their Charging Line, using each Aura's Level as their Power.",,U
+AW26,Liquid Whip,3,23,2,-,WATER,WATER,5,1,Single,Equipment,1: Grant Target Aura Freeze !A0! till the end of the Round.,2,C
+AE01,Spire,1,2,1,1,EARTH,EARTH,3,1,Single,Black Aura,Stun !A0!.,1,C
+AE02,Rampant Ivy,3,10,2 Hp,-,EARTH,EARTH,4,1,Single,Green Aura,Target Aura cannot Deal Damage to Players this Round.,,U
+AE03,Dust Devil,1,3,1,2,EARTH,EARTH,2,2,Area,Black Aura,,,C
+AE04,Earthen Clod,1,2,1,1,EARTH,EARTH,2,1,Single,Black Aura,Blind !A0!.,1,C
+AE05,Awakening Soil,1,4,2,-,EARTH,EARTH,1,1,Single,White Aura,Gain !A0! Earth Energy.,3,C
+AE06, Harmonizing Fauna,1,3,1,1,EARTH,EARTH,2,1,Ray,Black Aura,"For each ability in the same Spell, Harmonizing Fauna Gains !A0! Power.",1,R
+AE07,Naturalize,2,9,2,-,EARTH,EARTH,4,1,Single,Green Aura,Send Target Black Aura to Standby 4.,,U
+AE08,Quake,2,10,2,1,EARTH,EARTH,3,6,Area,Black Aura,When Quake enters the Field you may Reduce the Power of Target Aura by !A0!.,2,C
+AE09,Mud Trap,2,17,2,-,EARTH,EARTH,3,3,Area,White Aura,Target Players lose !A0! energy of each type.,2,C
+AE10,Boulder Throw,2,5,2,1,EARTH,EARTH,3,1,Ray,Black Aura,When Boulder Throw enters Standby you may Reveal the top card from your deck. If it is a White Aura you may Play it immediately at no Cost then Discard it. Otherwise put it into your hand.,,C
+AE11,Ore Pillar,2,7,3 Hp,2,EARTH,EARTH,3,3,Area,Black Aura,Stun !A0!.,2,C
+AE12,Stone Drill,2,6,2,1,EARTH,EARTH,1,1,Single,Black Aura,"Shift !A0!.
+Break.
+For each Aura Stone drill destroys in Combat, increase Stone Drill's power by !A1!.","2,1",U
+AE13,Shattering Flint,3,8,2,2,EARTH,EARTH,3,1,Single,Black Aura,Shatterproof.,,C
+AE14,Coal Strike,3,9,2,2,EARTH,EARTH,4,2,Area,Black Aura,Disable !A0!.,2,U
+AE15,Crystal Crush,3,14,2,3,EARTH,EARTH,4,3,Area,Black Aura,Increase the value of Target keyword Ability by !A0!.,2,U
+AE16,Petr,3,11,2 Hp,3,EARTH,EARTH,5,1,Ray,Black Aura,,,C
+AE17,Grasping Vine,2,8,1,-,EARTH,EARTH,2,1,Single,White Aura,Grant Target Aura Link.,,C
+AE18,Healing Balm,3,17,1,-,EARTH,EARTH,3,1,Single,White Aura,"Restore !A0! Hp to Target Player, if that Player is not you then return !A1! Black Aura(s) from your Discard Pile to Standby 1.","3,1",C
+AE19,Petrify,2,18,3,-,EARTH,EARTH,3,1,Single,Green Aura,Target Opponent cannot Play White or Green Auras next Round.,,R
+AE20,Arbor Vitae,4,25,4,-,EARTH,EARTH,1,1,Single,White Aura,Restore !A0! Hp to Target Player for each card in your Charging Line.,1,C
+AE21,Rupture,4,20,1 Hp,4,EARTH,EARTH,4,5,Area,Black Aura,Pay 2 Hp when Rupture Enters the Field unless it is part of a Spell.,,U
+AE22,Terra,4,10,3,4,EARTH,EARTH,3,1,Ray,Black Aura,"Terra cannot be blocked by Auras or Spells with less than !A0! Power.
+Terra Costs 1 to Play form your Charged Deck. Send it to Charge 2 if you do not Play it.",4,C
+AE23,Stone Defense,4,18,3,5,EARTH,EARTH,3,5,Area,Black Aura,Guard.,,C
+AE24,Tectonic Burial,4,12,2,3,EARTH,EARTH,4,1,Single,Black Aura,If Tectonic Burial is in a Spell of 3 or more Auras: Gain Break.,,C
+AE25,Obsidian Blade,2,12,4,-,EARTH,EARTH,1,1,Single,Equipment,1: Auras you contol Gain Stun !A0! till the end of the Round.,1,C
+AE26,Metamorphic Plate,3,27,3,-,EARTH,EARTH,3,1,Single,Equipment,"Dualcast 1: Reduce the Level and Power of Target Aura by !A0!, minimum of 0, till the End of the Round.",3,U
+AA01,Lightning,1,2,1,1,AIR,AIR,2,2,Area,Black Aura,Stun !A0!.,1,C
+AA02,Wind Sheer,1,3,1,1,AIR,AIR,2,1,Single,Black Aura,1: Strike.,,U
+AA03,Mini Twister,1,2,1,1,AIR,AIR,2,1,Ray,Black Aura,Disable !A0!.,1,C
+AA04,Calming Breath,2,9,3,-,AIR,AIR,2,1,Single,White Aura,"Choose one:
+- Draw !A0!.
+-Grant Target Aura Accelerate !A1!.","1,2",C
+AA05,Gust,3,20,3 Hp,-,AIR,AIR,5,1,Single,White Aura,Return Target White or Green Aura to its owner's hand.,,C
+AA06,Static Slug,1,2,2,1,AIR,AIR,3,1,Ray,Black Aura,Transfer.,,U
+AA07,Aero,2,7,1,2,AIR,AIR,4,3,Area,Black Aura,,,C
+AA08,Eroding Cloud,3,8,1,-,AIR,AIR,4,1,Single,Green Aura,Grant Target Aura Break.,,C
+AA09,Mindgale,2,14,4,-,AIR,AIR,1,1,Single,White Aura,"Reveal the top !A0! cards of your deck, send !A1! card to the Charging Line and put the other on top of the deck.","2,1",U
+AA10,Bolt,2,5,2,2,AIR,AIR,3,1,Single,Black Aura,Shift !A0!.,2,U
+AA11,Whirlwind,2,8,2 Hp,1,AIR,AIR,3,4,Area,Black Aura,"If Whirlwind is Blocked by a Spell, you may return !A0! cards in Target Spell to their Owners' hands.",2,C
+AA12,Zephyr,2,4,2,1,AIR,AIR,3,1,Single,Black Aura,Link.,,C
+AA13,Windstorm,2,5,2,1,AIR,AIR,4,2,Area,Black Aura,When in a Spell of 4 or more cards Windstorm Gains Pierce.,,U
+AA14,Plasma,3,13,1,3,AIR,AIR,3,5,Area,Black Aura,,,C
+AA15,Chain Lightning,3,11,4 Hp,2,AIR,AIR,4,1,Ray,Black Aura,Multicast 1: Chain Lightning gains !A0! Power till the end of the turn.,1,U
+AA16,Chilling Flurry,3,10,2,3,AIR,AIR,5,1,Single,Black Aura,Freeze !A0!.,2,C
+AA17,Binding Screen,3,12,1,-,AIR,AIR,1,1,Single,Green Aura,"If any number of Auras you control would be destroyed this round, you may instead Discard the same number of cards from the top of your deck.",,C
+AA18,Soothing Waft,3,18,2,-,AIR,AIR,1,1,Single,White Aura,"You may move up to !A0! cards you control to Standby, if you do: Gain !A1! Wind Energy per Card.","4,2",C
+AA19,Charging Bolt,4,14,3,0,AIR,AIR,5,1,Ray,Black Aura,Charging bolt's Power is equal to the number of cards in your Charged Deck.,,C
+AA20,Echoing Gale,4,16,3,-,AIR,AIR,4,1,Single,Green Aura,"Destroy Target Aura or Equipment.
+Dualcast 3.",,R
+AA21,Cyclone,4,14,3,2,AIR,AIR,2,5,Area,Black Aura,Strike.,,C
+AA22,Zap,4,9,3,2,AIR,AIR,4,1,Single,Black Aura,Zap Gains !A0! Power for each Wind Aura in the same Spell.,1,U
+AA23,Thunder Squall,4,9,3,3,AIR,AIR,4,1,Ray,Black Aura,If Thunder Squall is blocked you may send an Aura from Standby to the Charging Line.,,C
+AA24,Animating Gasp,4,24,3 Hp,-,AIR,AIR,2,1,Single,White Aura,Return an Aura from Target Player's Discard Pile to Charge 4.,,C
+AA25,Voltage Edge,2,17,3,-,AIR,AIR,3,1,Single,Equipment,2: Grant Target Aura Strike.,,C
+AA26,Sky Mantle,1,13,4 Hp,-,AIR,AIR,1,1,Single,Equipment,Once per turn you may Grant a Card in your hand: This Card may be Cycled for !A0! Wind Energy.,4,U
+AL01,Meditate,1,4,2,-,LIGHT,LIGHT,1,1,Single,White Aura,Gain !A0! Light Energy.,3,U
+AL02,Illuminate,3,6,1,-,LIGHT,LIGHT,3,1,Single,Green Aura,Grant Target Aura Link.,,U
+AL03,Dazzling Spark,1,3,2 Hp,1,LIGHT,LIGHT,2,1,Single,Black Aura,When in a Spell with a Level 4 Aura Dazzling Spark Gains Sustain 1 Hp.,,C
+AL04,Light Veil,1,3,2,3,LIGHT,LIGHT,2,3,Area,Black Aura,Guard.,,C
+AL05,Star Beam,1,3,1,2,LIGHT,LIGHT,3,1,Ray,Black Aura,,,C
+AL06,Stun Strike,1,2,1,1,LIGHT,LIGHT,3,1,Single,Black Aura,Stun !A0!.,1,C
+AL07,Arica,2,11,1,-,LIGHT,LIGHT,3,1,Single,White Aura,Restore !A0! Hp to Target Player.,2,C
+AL08,Prismatic Buffer,2,6,3,-,LIGHT,LIGHT,2,1,Single,Green Aura,Block all Damage Target Player would take this Turn.,,U
+AL09,Radi,2,5,1,2,LIGHT,LIGHT,2,1,Ray,Black Aura,Link.,,C
+AL10,Blinding Slash,2,6,2,2,LIGHT,LIGHT,2,5,Area,Black Aura,Blind !A0!.,1,C
+AL11,Twinkle,2,5,3 Hp,1,LIGHT,LIGHT,4,1,Single,Black Aura,Transfer.,,U
+AL12,Ray of Hope,2,7,2,0,LIGHT,LIGHT,3,1,Ray,Black Aura,Ray of Hope's Power is equal to the amount of Energy you have available.,,C
+AL13,Holy Reprimand,3,11,3,-,LIGHT,LIGHT,4,1,Single,Green Aura,Destroy Target Black Aura or Equipment.,,C
+AL14,Flash Orb,3,8,2,3,LIGHT,LIGHT,3,1,Single,Black Aura,Blink: Target Aura gains Stun !A0!.,2,U
+AL15,Sanct,3,12,3 Hp,3,LIGHT,LIGHT,2,4,Area,Black Aura,Pierce.,,C
+AL16,Luminous Flux,3,10,2,2,LIGHT,LIGHT,4,2,Area,Black Aura,If Luminous Flux is destroyed you may return a Card from your Discard Pile to your hand.,,U
+AL17,Radiant Burst,3,10,1,3,LIGHT,LIGHT,5,1,Ray,Black Aura,,,C
+AL18,Gleaming Volley,3,8,3,2,LIGHT,LIGHT,3,1,Single,Black Aura,Strike.,,C
+AL19,Resurrect,4,31,2,-,LIGHT,LIGHT,2,1,Single,White Aura,"Return !A0! card(s) from Target Player's Discard Pile to Charge 4.
+Dualcast 2.",1,C
+AL20,Penetrating Gaze,4,20,4 Hp,-,LIGHT,LIGHT,4,1,Single,Green Aura,Reveal Target Player's hand and Discard an Aura from it.,,U
+AL21,Righteous Fury,4,12,3,3,LIGHT,LIGHT,2,1,Single,Black Aura,"When in a Spell of 3 or more cards you may Reduce the effect or Cost of any ability by !A0!, down ot 0.",1,C
+AL22,Lux Lucis,4,12,4,2,LIGHT,LIGHT,5,1,Ray,Black Aura,"Sustain 1.
+Lux Lucis Gains !A0! Power for each Round it is Sustained.",1,R
+AL23,Apocalypse,4,17,3,3,LIGHT,LIGHT,3,6,Area,Black Aura,Apocalypse Gains Obliterate !A0! when in a Spell of 3 or more cards.,4,C
+AL24,Divine Restitution,4,14,2,2,LIGHT,LIGHT,5,2,Area,Black Aura,When Divine Restitution enters the field you may change any available energy you control to Light Energy.,,C
+AL25,Lucent Staff,3,20,3,-,LIGHT,LIGHT,3,1,Single,Equipment,1: Grant Target Aura Sustain 1.,,U
+AL26,Mindgate,2,11,4,-,LIGHT,LIGHT,1,1,Single,Equipment,4 Hp: Level 1 and 2 Auras you control Gain !A0! Power till the end of the Round.,1,C
+AD01,Blood Oathe,1,7,4,-,DARK,DARK,3,1,Single,White Aura,"Choose one:
+- Target Player draws !A0!.
+- Deal !A1! Damage to Target Player.","1,1",C
+AD02,Annul,1,4,1,-,DARK,DARK,4,1,Single,Green Aura,Send Target White or Green Aura to its Owner's hand.,,C
+AD03,Umber,1,3,1,1,DARK,DARK,2,3,Area,Black Aura,Stun !A0!.,2,C
+AD04,Perforate,1,3,2 Hp,1,DARK,DARK,2,1,Single,Black Aura,Perforate Gains Pierce when in a Spell with a Level 4 Aura.,,C
+AD05,Shadow Fuse,1,2,1,1,DARK,DARK,2,1,Ray,Black Aura,When in a Spell of 3 or more cards Shadow Fuse Gains Shift !A0!.,3,U
+AD06,Aphotic Blast,1,3,1,2,DARK,DARK,2,2,Area,Black Aura,,,C
+AD07,Siphon,2,16,2,-,DARK,DARK,2,1,Single,White Aura,Deal !A0! Damage to Target Player. Gain !A1! Life.,"2,2",C
+AD08,Bond of Wrath,2,6,2 Hp,-,DARK,DARK,3,1,Single,Green Aura,Discard a card. Target Aura Gains Power equal to the Power of the card you Discarded.,,C
+AD09,Harrow,2,7,1,1,DARK,DARK,4,2,Area,Black Aura,Shift !A0!.,1,C
+AD10,Dusk Beacon,2,6,3,2,DARK,DARK,2,1,Single,Black Aura,Dusk Beacon is not affected by abilities. This applies to spells.,,C
+AD11,Shade,2,7,2,1,DARK,DARK,3,3,Area,Black Aura,Transfer.,,C
+AD12,Chains of Demise,2,10,2,2,DARK,DARK,6,1,Ray,Black Aura,Reduce the Power of Target Aura or Spell by Chains of Demise's Power.,,U
+AD13,Corrupting Tendrils,3,22,3,-,DARK,DARK,4,1,Single,White Aura,Destroy Target Aura that Costs !A0! or less.,2,C
+AD14,Mind Shuffle,3,6,3,-,DARK,DARK,3,1,Single,Green Aura,Look at the top !A0! cards of Target Player's deck and put them back in any order.,5,C
+AD15,Pandemonium,3,10,3 Hp,2,DARK,DARK,4,1,Ray,Black Aura,Shift !A0!.,2,C
+AD16,Eclipse,3,13,2,2,DARK,DARK,2,5,Area,Black Aura,Break. ,,C
+AD17,Spirit's Threnody,3,11,1,4,DARK,DARK,5,1,Single,Black Aura,Send an Aura you control to the Discard Pile when Spirit's Threnody is played from your hand.,,U
+AD18,Shadow Barrage,3,14,1,3,DARK,DARK,3,4,,Black Aura,,,C
+AD19,Adroit Trade,4,27,3,-,DARK,DARK,3,1,Single,White Aura,"Rather than pay Adroit Trade's Cost, you may pay x Life. If you do, Gain x Dark Energy. otherwise Deal !A1! Damage to Target Player.",4,C
+AD20,Xenocide,4,20,3,-,DARK,DARK,5,1,Single,Green Aura,Destroy Target White or Green Aura unless its owner pays !A0! Hp.,6,C
+AD21,Black Hole,4,22,3,3,DARK,DARK,3,6,Area,Black Aura,Syphon.,,C
+AD22,Molding Emanation,4,18,4,0,DARK,DARK,4,2,Area,Black Aura,Molding Emanation's Power is equal to that of the top Card on your Discard Pile. When Molding Emanation enters the field Reveal the top Card of your Deck. Molding Emanation gains the abilities of that card. Put the revealed card on the bottom of your deck.,,C
+AD23,Chaos Shroud,4,23,3,3,DARK,DARK,3,6,Area,Black Aura,"Guard.
+Reduce Power of Target Attacking Aura by !A0!.",2,R
+AD24,Malicious Link,4,13,3 Hp,3,DARK,DARK,4,1,Ray,Black Aura,"If Malicious Link would be sent to the Discard Pile, you may return it to your hand and instead Discard a card.",,U
+AD25,Unholy Chalice,3,21,5 Hp,-,DARK,DARK,4,1,Single,Equipment,2: Gain Hp equal to the Damage you Dealt to Target Player this Round.,,C
+AD26,Blade of the Foresaken,1,16,3,-,DARK,DARK,1,1,Single,Equipment,4: Target Aura Gains Power equal to the number of cards in Target Player's Discard Pile.,,R
+AT01,Scour,1,6,3,-,TIME,TIME,3,1,Single,White Aura,"Choose one:
+-Draw !A0!.
+Grant Target Aura Accelerate !A1!.","1,1",C
+AT02,Haste,1,3,1,-,TIME,TIME,1,1,Single,Green Aura,Gain !A0! Time Energy.,6,U
+AT03,Deteriorate,1,3,1,1,TIME,TIME,2,2,Area,Black Aura,Break.,,C
+AT04,Quickening Volley,1,3,2,1,TIME,TIME,2,1,Single,Black Aura,Quickening Volley Gains Power equal to the value of Accelerate in the same Spell.,,U
+AT05,Tempo Ray,1,3,1,2,TIME,TIME,2,1,Ray,Black Aura,,,C
+AT06,Horologe Charm,1,2,2 Hp,1,TIME,TIME,3,1,Single,Black Aura,Accelerate !A0!.,1,C
+AT07,Repose,3,20,2,-,TIME,TIME,3,1,Single,White Aura,Target Aura cannot Attack or Block this Round. Does not apply to Spells.,,C
+AT08,Rescind,2,8,3,-,TIME,TIME,5,1,Single,Green Aura,Destroy Target White or Green Aura.,,C
+AT09,Relentless Chronicle,2,7,2,2,TIME,TIME,2,3,Area,Black Aura,Draw an extra card at your next Draw Step.,,C
+AT10,Flash Sever,2,7,3,2,TIME,TIME,4,1,Single,Black Aura,Blink: Return Target Aura or Equipment to their Owner's Hand.,,C
+AT11,Deconstruct,2,7,2 Hp,3,TIME,TIME,3,2,Area,Black Aura,Discard Deconstruct: Reduce the Power of all Auras Attacking Target Player by !A0!.,1,U
+AT12,Point Break,2,6,1,2,TIME,TIME,3,1,Ray,Black Aura,Link.,,C
+AT13,Element Splice,3,22,3,-,TIME,TIME,4,1,Single,White Aura,Choose up to !A0! cards in Target Opponent's Cycling. You gain Time Energy equal to the total number of levels.,3,C
+AT14,Flashback,3,16,4,-,TIME,TIME,3,1,Single,Green Aura,Return Target Player's Life total to what it was at the end of last Turn.,,R
+AT15,Warp Field,3,12,2,3,TIME,TIME,3,4,Area,Black Aura,Accelerate !A0!.,2,C
+AT16,Cadence Hex,3,9,3 Hp,2,TIME,TIME,4,1,Ray,Black Aura,"Accelerate !A0!.
+Shift !A1!.","1,1",U
+AT17,Blitz,3,10,1,3,TIME,TIME,4,1,Single,Black Aura,,,C
+AT18,Halt,3,9,3,4,TIME,TIME,3,2,Area,Black Aura,"Guard.
+Accelerate !A0!.",1,C
+AT19,Rewind,4,18,2,-,TIME,TIME,1,1,Single,White Aura,Return an Aura you cycled last Round to your hand.,,C
+AT20,Space Time Disruption,4,6,3,-,TIME,TIME,1,1,Single,Green Aura,Swap any two of your Charging Decks.,,C
+AT21,Quantum Bolt,4,12,3,3,TIME,TIME,4,1,Single,Black Aura,"When Destroyed, send Quantum Bolt to Standby 4. Cycle Quantum Bolt after it is played from the Charged Deck.",,C
+AT22,Epoch Slash,4,10,4,3,TIME,TIME,3,1,Single,Black Aura,Blink: Grant Target Aura Pierce.,,R
+AT23,Aeon Raid,4,13,4,0,TIME,TIME,5,1,Ray,Black Aura,Choose a Charging Deck you control. Aeon Raid's Power is equal to the number of Auras in that Deck.,,U
+AT24,Dimensional Rift,4,21,3 Hp,3,TIME,TIME,4,6,Area,Black Aura,Discard a card: Dimensional Rift Gains Accelerate !A0!.,3,C
+AT25,Timemarker,2,10,4 Hp,-,TIME,TIME,1,1,Single,Equipment,2: Grant Auras you control Accelerate !A0!.,1,U
+AT26,Sempiternity Atlas,3,16,5,-,TIME,TIME,1,1,Single,Equipment,3 Hp: You may Cycle up to !A0! Cards twice till the end of the turn.,2,C
+AS01,Renewed Vigor,1,4,2,-,SPIRIT,SPIRIT,1,1,Single,White Aura,Gain !A0! Spirit Energy.,3,C
+AS02,Salv,1,5,3,-,SPIRIT,SPIRIT,4,1,Single,Green Aura,Return a card from Target Player's Discard Pile to their hand.,,C
+AS03,Bind,1,3,2 Hp,1,SPIRIT,SPIRIT,2,1,Single,Black Aura,Transfer.,,C
+AS04,Verve Assault,1,2,1,1,SPIRIT,SPIRIT,2,2,Area,Black Aura,Discard the top card from your deck: Verve Assault Gains Link. ,,U
+AS05,Blinding Radiance,1,3,1,3,SPIRIT,SPIRIT,3,1,Single,Black Aura,Discard a Card if Blinding Radiance is Blocked.,,C
+AS06,Halo,1,4,1,2,SPIRIT,SPIRIT,2,3,Area,Black Aura,,,C
+AS07,Anima Ring,2,18,3,-,SPIRIT,SPIRIT,3,1,Single,White Aura,"Return an Aura from Target Player's Discard Pile to the Field.
+Discard Anima Ring when played from the Charged Deck.",,C
+AS08,Vita,2,7,2,-,SPIRIT,SPIRIT,1,1,Single,Green Aura,Return 2 Black Auras from your Discard Pile to your Hand.,,C
+AS09,Zeal Blade,2,6,2,2,SPIRIT,SPIRIT,3,1,Single,Black Aura,Choose !A0! Aura(s) from Target Player's Discard Pile. Zeal Blade Gains the Keyword Abilities of that Aura.,1,U
+AS10,Barrier,2,9,4 Hp,4,SPIRIT,SPIRIT,2,5,Area,Black Aura,"Guard.
+Transfer.",,C
+AS11,Resonating Blow,2,4,3,2,SPIRIT,SPIRIT,3,1,Ray,Black Aura,If Resonating Blow is sent to your Discard Pile from your Deck you may Play it at no Cost.,,C
+AS12,Force Strike,2,5,2,2,SPIRIT,SPIRIT,2,1,Single,Black Aura,Pierce.,,C
+AS13,Negate,3,16,2,-,SPIRIT,SPIRIT,3,1,Single,White Aura,Send Target Aura to its Owner's Charging Line,,C
+AS14,Mind Spark,3,8,3,-,SPIRIT,SPIRIT,4,1,Single,Green Aura,Destroy Target White or Green Aura.,,C
+AS15,Quintessence Volley,4,9,1,0,SPIRIT,SPIRIT,4,1,Ray,Black Aura,"When Quintessence Volley enters the field, reveal cards from the top of your Deck till you Reveal a level 4 Aura. Quintessence Volley's Power is equal to the number of cards Revealed. Discard the Revealed cards.",,U
+AS16,Respicio,3,8,3,2,SPIRIT,SPIRIT,4,1,Single,Black Aura,Respicio may be played out of the Discard Pile by paying its Cost.,,C
+AS17,Veiled Halation,3,11,3 Hp,3,SPIRIT,SPIRIT,3,4,Area,Black Aura,,,C
+AS18,Vim Beam,3,9,3,1,SPIRIT,SPIRIT,6,1,Ray,Black Aura,Transfer.,,R
+AS19,Vital Reparation,4,19,3,-,SPIRIT,SPIRIT,2,1,Single,White Aura,"Return an Aura from Target Player's Discard Pile to Charge 4. You may pay Life equal to the Level of that Aura. If you do, gain !A0! Spirit Energy.",4,U
+AS20,Mend Soul,4,5,5 Hp,-,SPIRIT,SPIRIT,1,1,Single,Green Aura,Discard your hand. Draw the same number of cards.,,C
+AS21,Echo Blast,4,12,3,3,SPIRIT,SPIRIT,4,1,Single,Black Aura,If Echo Blast Deals Damage to a Player you may Return an Aura from your Discard Pile to Charge 3.,,R
+AS22,Joint Aureole ,4,17,2,4,SPIRIT,SPIRIT,4,5,Area,Black Aura,"When Joint Aureole enters the field, move an Aura from your Charging Line to Standby.",,C
+AS23,Spirit Rush,4,13,5,3,SPIRIT,SPIRIT,6,1,Ray,Black Aura,"Spirit Rush cannot be destroyed be Equipment Effects.
+Spirit Rush can only be played from the Discad Pile or Charged Deck.",,C
+AS24,Aurora,4,16,4,0,SPIRIT,SPIRIT,3,6,Area,Black Aura,Aurora's Power is equal to the number of different Energy types you have produced this Round.,,C
+AS25,Star Pendant,3,20,5,-,SPIRIT,SPIRIT,1,1,Single,Equipment,Auras with Transfer you Control can switch with cards in the Discard Pile.,,C
+AS26,Schism Scepter,4,26,3 Hp.,-,SPIRIT,SPIRIT,2,1,Single,Equipment,Dualcast 2: Choose a card from Target Player's Discard Pile and send it to the bottom of their Deck.,,U
+AN01,Move,2,1,0,-,NONE,NONE,1,1,Single,Movement,Move 1 in any direction.,,
+AN02,Leap,2,3,0,-,NONE,NONE,2,1,Ray,Movement,Move 2 in one direction.,,
+AN03,Dodge Roll,2,7,1,-,NONE,NONE,3,1,Ray,Movement,Move 3 in one direction.,,
+AN04,Blink,2,4,0,-,NONE,NONE,2,1,Single,Movement,Blink is not affected by height or abilities.,,
+AN05,Charge,2,7,1,-,NONE,NONE,2,1,Ray,Movement,"If you end next to a unit, that unity Discards a Card.",,
+AN06,Stutter,0,-4,1,-,NONE,NONE,0,1,Single,Movement,Trigger the effects of the Tile you are on.,,
+AF27,Firewheel,2,1,1,-,FIRE,FIRE,1,1,Single,Movement,Burn your current tile.,,
+AW27,Liquidate,2,3,1,-,WATER,WATER,x,1,Single,Movement,Move to any Swamped tile..,,
+AE27,Pillar Jump,2,2,1,-,EARTH,EARTH,1,1,Single,Movement,"Move 1 in any direction, regardless of height.
+Raise the tile you were on.",,
+AA27,Levitate,2,3,1,-,AIR,AIR,2,1,Single,Movement,"Move 2 in any direction.
+Is not affected by tile abilities or height.",,
+AL27,Impel,2,6,1,-,LIGHT,LIGHT,1,1,Single,Movement,"Move 1 in any direction.
+Draw !A0!.",1,
+AD27,Scramble,2,3,1,-,DARK,DARK,1,1,Single,Movement,"Move 1 in any direction.
+Discard 1: Increase Move by !A0!.",4,
+AT27,Switch,2,4,1,-,TIME,TIME,x,1,Single,Movement,Move to the last tile you affected with an Aura this Round.,,
+AS27,Flutter,2,1,1,-,SPIRIT,SPIRIT,1,1,Single,Movement,"Move 1 in any direction.
+Gain 1 Energy of an element of your choice.",,

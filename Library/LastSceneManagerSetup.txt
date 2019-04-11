@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AllAssets/Scenes/Alpha.unity
+- path: Assets/CSVSerializer/Demo/Scene/demo.unity
   isLoaded: 1
   isActive: 1
